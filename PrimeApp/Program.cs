@@ -13,8 +13,6 @@ namespace PrimeApp
             var prim = srv.PrimeName("OlKarp-test");
 
             Console.WriteLine($"PrimeName: {prim}");
-
-            Console.ReadLine();
         }
     }
 }
