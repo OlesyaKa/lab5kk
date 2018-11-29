@@ -10,7 +10,7 @@ namespace PrimeApp
 
             var srv = new Prime.Services.PrimeService();
 
-            var prim = srv.PrimeName("OlKarp-test");
+            var prim = srv.PrimeName("Vitek Krasavchik");
 
             Console.WriteLine($"PrimeName: {prim}");
         }
